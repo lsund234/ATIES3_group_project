@@ -1,1 +1,2 @@
-Wenn gegen beta aufgetragen ist, wurde immer über 24h gemittelt (daher der bar über dem wert)
+- Wenn gegen beta aufgetragen ist, wurde immer über 24h gemittelt (daher der bar über dem wert)
+- FC_BW bezieht sich auf ganz BW, FC nur auf unseren Windpark (unterschied ist scaling 2.5%) 
